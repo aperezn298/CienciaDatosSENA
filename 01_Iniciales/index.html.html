@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Data Sprint — Quiz (20 min)</title>
+    <link rel="stylesheet" href="css/topic.css" />
+</head>
+
+<body>
+    <!-- CABECERA -->
+     <div class="wrap">
+        <div class="card header">
+            <div class="header-logo">
+                <img src="img/logoSena.png" alt="SENA" />
+            </div>
+            <div class="header-content">
+                <h2>Data Sprint — Quiz de Ciencia de Datos</h2>
+                <p class="muted">Programa de Análisis y Desarrollo de Software - ADSO<br/>
+                Competencia: Ciencia de Datos</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- CONTENIDO -->
+    <div class="wrap">
+        <div class="card">
+            <!-- PANTALLA INICIO -->
+            <div class="row" id="screen-start">
+                <div>
+                    <p>Reta tus conocimientos en <strong>Big Data</strong>, <strong>Machine Learning</strong>,
+                        <strong>Estadística</strong>, <strong>Ética de datos</strong> y <strong>Fundamentos de
+                            Programación en Python</strong>. Tienes <span class="badge">20 minutos</span> para
+                        responder. Al finalizar podrás <strong>descargar un JSON</strong> con tu resultado.</p>
+                    <p class="hint">* Este es un quiz de autoevaluación. No hay respuestas correctas o incorrectas,
+                        solo busca identificar áreas de mejora para tu aprendizaje. ¡Buena suerte!</p>
+                    <br />
+                    <h3>Identificación</h3>
+                    <div class="grid">
+                        <label>
+                            <span class="muted">Aprendiz: *</span>
+                            <input id="nombre" type="text" placeholder="Nombres y apellidos del aprendiz" />
+                        </label>
+                        <div class="footer">
+                            <button id="btnStart" class="btn">Comenzar</button>
+                            <button id="btnDemo" class="btn secondary"
+                                title="Carga respuestas aleatorias (para probar)">Demo rápido</button>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="kpi">
+                        <h4>¿Qué evalúa?</h4>
+                        <ul class="muted">
+                            <li>Big Data (5V, pipelines, arquitectura)</li>
+                            <li>ML (supervisado, no supervisado, validación)</li>
+                            <li>Estadística (media/mediana, métricas, muestreo)</li>
+                            <li>Ética (privacidad, sesgos, consentimiento)</li>
+                            <li>Python (tipos, estructuras, control de flujo)</li>
+                        </ul>
+                    </div>
+                    <div class="kpi" style="margin-top:12px">
+                        <h4>Entrega</h4>
+                        <ol class="muted">
+                            <li>Archivo <code>resultados.json</code> descargado</li>
+                            <li>Captura de pantalla del puntaje</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PANTALLA QUIZ -->
+            <div id="screen-quiz" class="hidden">
+                <div class="meta">
+                    <span class="pill">Aprendiz: <strong id="labNombre"></strong></span>
+                    <span class="pill timer">Tiempo: <strong id="labTime">20:00</strong></span>
+                    <span class="pill">Pregunta <strong id="labN">1</strong>/<span id="labTotal">20</span></span>
+                </div>
+                <div class="progress">
+                    <div class="bar" id="prog"></div>
+                </div>
+                <div id="qbox"></div>
+                <div class="footer">
+                    <button id="btnPrev" class="btn secondary">Anterior</button>
+                    <button id="btnNext" class="btn">Siguiente</button>
+                    <button id="btnFinish" class="btn destructive">Finalizar</button>
+                </div>
+            </div>
+
+            <!-- PANTALLA RESULTADOS -->
+            <div id="screen-result" class="hidden">
+                <h1>¡Quiz finalizado!</h1>                
+                <div class="row">
+                    <div>
+                        <div class="kpi">
+                            <h4>Identificación</h4>
+                            <div class="grid two">
+                                <div><span class="muted">Nombre:</span> <strong id="resNombre">—</strong></div>
+                                <div><span class="muted">Fecha de realización:</span> <strong id="resFecha">—</strong>
+                                </div>
+                                <div><span class="muted">Puntaje: </span><strong id="labScore">—/20</strong></div>
+                            </div>
+                        </div>
+                        <p class="muted" id="labMsg"></p>
+                        <div class="grid two">
+                            <div class="kpi">
+                                <h4>Tiempo usado</h4>
+                                <div id="labUsed" class="badge">—</div>
+                            </div>
+                            <div class="kpi">
+                                <h4>Exactitud (%)</h4>
+                                <div id="labAcc" class="badge">—</div>
+                            </div>
+                        </div>
+                        <div class="kpi" style="margin-top:12px">
+                            <h4>Desglose por temática</h4>
+                            <div id="breakdown" class="muted"></div>
+                        </div>
+                        <div class="footer">
+                            <button id="btnDownload" class="btn">Descargar resultados (.json)</button>
+                            <button id="btnRetry" class="btn secondary">Reintentar</button>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="kpi">
+                            <h4>Respuestas</h4>
+                            <div id="answers" class="muted" style="max-height:400px;overflow:auto"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="toast" class="toast hidden"></div>
+
+    <!-- PIE DE PAGINA -->
+     <div class="wrap">
+        <div class="card">
+            <p class="muted footer-text" style="font-size:0.9em">
+                Centro de Servicios y Gestión Empresarial - CESGE<br />
+                SENA - Regional Antioquia<br />
+                © 2025 AperezN. Todos los derechos reservados. <br />
+                Desarrollado por Alvaro Pérez Niño
+            </p>
+        </div>
+    </div>
+
+    <script src="js/questions.js"></script>
+</body>
+
+</html>
