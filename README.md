@@ -15,3 +15,5 @@ Contenido de la Competencia de Ciencia de Datos (BigData - Machine Learning) - S
     - [Plan de Concertación](https://github.com/aperezn298/CienciaDatosSENA/blob/main/00_Conceptualizacion/Plan_Concertado_3010090.pdf)
     - [Acta de concertación](https://github.com/aperezn298/CienciaDatosSENA/blob/main/00_Conceptualizacion/Acta_Concertacion_3010090.pdf) 
     - [Guia de Aprendizaje](https://github.com/aperezn298/CienciaDatosSENA/blob/main/00_Conceptualizacion/Guia_Aprendizaje_BD_ML.pdf)
+2. Conceptos de Big data y Machine Learning
+    - [Presentación de Clase](https://github.com/aperezn298/CienciaDatosSENA/blob/main/02_Fundamentos/c:\Users\USUARIO\Documents\GitHub\CienciaDatosSENA\02_Fundamentos\01ConceptosBasicosBD_ML.pdf)
