@@ -20,4 +20,5 @@ Contenido de la Competencia de Ciencia de Datos (BigData - Machine Learning) - S
 3. Fundamentos de Programación
     - [Python](https://github.com/aperezn298/CienciaDatosSENA/blob/main/02_Fundamentos/02_1_FundamentosPython.ipynb)
     - [Ejercicio Biblioteca](https://github.com/aperezn298/CienciaDatosSENA/blob/main/02_Fundamentos/02_2_EjercicioBiblioteca.pdf)
+    - [Ejercicio Bancario](https://github.com/aperezn298/CienciaDatosSENA/blob/main/02_Fundamentos/02_3_EjercicioBancario.pdf)
     
