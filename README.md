@@ -22,3 +22,11 @@ Contenido de la Competencia de Ciencia de Datos (BigData - Machine Learning) - S
     - [Ejercicio Biblioteca](https://github.com/aperezn298/CienciaDatosSENA/blob/main/02_Fundamentos/02_2_EjercicioBiblioteca.pdf)
     - [Solución Biblioteca](https://github.com/aperezn298/CienciaDatosSENA/blob/main/02_Fundamentos/02_2_EjercicioBiblioteca.py)
     - [Ejercicio Bancario](https://github.com/aperezn298/CienciaDatosSENA/blob/main/02_Fundamentos/02_3_EjercicioBancario.pdf)
+4. Ciencia de Datos
+    1. [Entendimiento Negocio](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/03EntendimientoNegocio.pdf)
+    2. [Entendimiento Datos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/#)
+        - Dataset de Ejemplo
+            * [Calificaciones Excel](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/ejemploCalificacionesExcel.xlsx) y [Calificaciones CSV](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/ejemploCalificacionesCSV.csv)
+5. Proyecto Clase
+    - [Usuarios](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04_hepatitis_dataset_users.xlsx)
+    - [Sintomas](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04_hepatitis_dataset_sintomas.xlsx)
