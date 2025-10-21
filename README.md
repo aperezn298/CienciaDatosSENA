@@ -27,6 +27,7 @@ Contenido de la Competencia de Ciencia de Datos (BigData - Machine Learning) - S
     2. [Entendimiento Datos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/#)
         - Dataset de Ejemplo
             * [Calificaciones Excel](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/ejemploCalificacionesExcel.xlsx) y [Calificaciones CSV](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/ejemploCalificacionesCSV.csv)
+            * [Script Entendimeitno Datos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04EntendimientoDatos.ipynb)
 5. Proyecto Clase
     - [Usuarios](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04_hepatitis_dataset_users.xlsx)
     - [Sintomas](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04_hepatitis_dataset_sintomas.xlsx)
