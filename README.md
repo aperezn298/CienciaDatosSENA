@@ -24,10 +24,12 @@ Contenido de la Competencia de Ciencia de Datos (BigData - Machine Learning) - S
     - [Ejercicio Bancario](https://github.com/aperezn298/CienciaDatosSENA/blob/main/02_Fundamentos/02_3_EjercicioBancario.pdf)
 4. Ciencia de Datos
     1. [Entendimiento Negocio](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/03EntendimientoNegocio.pdf)
-    2. [Entendimiento Datos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/#)
-        - Dataset de Ejemplo
-            * [Calificaciones Excel](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/ejemploCalificacionesExcel.xlsx) y [Calificaciones CSV](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/ejemploCalificacionesCSV.csv)
-            * [Script Entendimeitno Datos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04EntendimientoDatos.ipynb)
-5. Proyecto Clase
+    2. [Entendimiento Datos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04EntendimientoDatos.pdf)
+        - Notebooks - Librerias
+            1. [Pandas](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04LibreriaPandas.ipynb)
+            2. [Matplotlib](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/05LibreriaMatplotlib.ipynb)
+            3. [Estadistica](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/06LibreriasEstadisticas.ipynb)
+    3. [Datasets](https://github.com/aperezn298/CienciaDatosSENA/blob/main/04Datasets)
+<!-- 5. Proyecto Clase
     - [Usuarios](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04_hepatitis_dataset_users.xlsx)
-    - [Sintomas](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04_hepatitis_dataset_sintomas.xlsx)
+    - [Sintomas](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04_hepatitis_dataset_sintomas.xlsx) -->
