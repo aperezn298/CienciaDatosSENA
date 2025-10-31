@@ -29,6 +29,7 @@ Contenido de la Competencia de Ciencia de Datos (BigData - Machine Learning) - S
             1. [Pandas](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04LibreriaPandas.ipynb)
             2. [Matplotlib](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/05LibreriaMatplotlib.ipynb)
             3. [Estadistica](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/06LibreriasEstadisticas.ipynb)
+            4. [Practica Clase](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/07PracticaClaseEntendimiento.ipynb)
     3. [Datasets](https://github.com/aperezn298/CienciaDatosSENA/blob/main/04Datasets)
 <!-- 5. Proyecto Clase
     - [Usuarios](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04_hepatitis_dataset_users.xlsx)
