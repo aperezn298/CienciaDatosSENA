@@ -33,6 +33,11 @@ Contenido de la Competencia de Ciencia de Datos (BigData - Machine Learning) - S
     3. [Preparación Datos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/05PreparacionDatos/05PreparacionDatos.pdf)
         - Notebooks - Ejemplo
             1. [Ejemplo Preparación Datos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/05PreparacionDatos/05PreparacionDatos.ipynb)
+    4. [Modelado](https://github.com/aperezn298/CienciaDatosSENA/blob/main/05Modelado/06Modelamiento.pdf)
+       - Notebooks - Ejemplo
+            1. [Ejemplo 1 Solo Modelo](https://github.com/aperezn298/CienciaDatosSENA/blob/main/05Modelado/06EjemploModelamientoIndv.ipynb) 
+
+
     3. [Datasets](https://github.com/aperezn298/CienciaDatosSENA/blob/main/04Datasets)
 <!-- 5. Proyecto Clase
     - [Usuarios](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04_hepatitis_dataset_users.xlsx)
