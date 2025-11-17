@@ -38,10 +38,10 @@ Contenido de la Competencia de Ciencia de Datos (BigData - Machine Learning) - S
             1. [Ejemplo un Solo Modelo](https://github.com/aperezn298/CienciaDatosSENA/blob/main/05Modelado/06EjemploModelamientoIndv.ipynb)
             2. [Ejemplo varios Modelos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/05Modelado/06EjemploModelamientoGrup.ipynb)
         - Notebooks - Modelos de Regresión
-            1. [Ejemplo varios Modelos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/05Modelado/06EjemploModelamientoIndv.ipynb)
+            1. [Ejemplo varios Modelos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/05Modelado/06EjemploModelamientoGrupR.ipynb)
+    5. [Despliegue](https://github.com/aperezn298/CienciaDatosSENA/blob/main/06Despliegue/#.pdf)
 
-
-    3. [Datasets](https://github.com/aperezn298/CienciaDatosSENA/blob/main/04Datasets)
+    6. [Datasets](https://github.com/aperezn298/CienciaDatosSENA/blob/main/04Datasets)
 <!-- 5. Proyecto Clase
     - [Usuarios](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04_hepatitis_dataset_users.xlsx)
     - [Sintomas](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04_hepatitis_dataset_sintomas.xlsx) -->
