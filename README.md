@@ -39,7 +39,10 @@ Contenido de la Competencia de Ciencia de Datos (BigData - Machine Learning) - S
             2. [Ejemplo varios Modelos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/05Modelado/06EjemploModelamientoGrup.ipynb)
         - Notebooks - Modelos de Regresión
             1. [Ejemplo varios Modelos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/05Modelado/06EjemploModelamientoGrupR.ipynb)
-    5. [Despliegue](https://github.com/aperezn298/CienciaDatosSENA/blob/main/06Despliegue/#.pdf)
+    5. [Despliegue](https://github.com/aperezn298/CienciaDatosSENA/blob/main/06Despliegue/07Despliegue.pdf)
+        - [Ejemplo MVC](https://github.com/aperezn298/trianguloMVC)
+        - [Ejemplo Rest](https://github.com/aperezn298/trianguloRest)
+
 
     6. [Datasets](https://github.com/aperezn298/CienciaDatosSENA/blob/main/04Datasets)
 <!-- 5. Proyecto Clase
