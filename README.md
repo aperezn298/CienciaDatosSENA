@@ -43,6 +43,7 @@ Contenido de la Competencia de Ciencia de Datos (BigData - Machine Learning) - S
         - [Guia de Jinja2](https://github.com/aperezn298/CienciaDatosSENA/blob/main/06Despliegue/07_1HTML_Jinja.pdf)
         - [Ejemplo MVC](https://github.com/aperezn298/trianguloMVC)
         - [Ejemplo Rest](https://github.com/aperezn298/trianguloRest)
+        - [Modelo IA Hepatitis](https://github.com/aperezn298/CienciaDatosSENA/blob/main/07ModeloIAHepatitis)
 
 
     6. [Datasets](https://github.com/aperezn298/CienciaDatosSENA/blob/main/04Datasets)

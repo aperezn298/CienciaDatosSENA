@@ -1,0 +1,41 @@
+{
+    "modelo": "Regresión Logística",
+    "random_state": 42,
+    "max_iter": 1000,
+    "metricas_train": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "metricas_test": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "n_features": 21,
+    "features": [
+        "Age",
+        "Sex",
+        "Estado_Civil",
+        "Ciudad",
+        "Steroid",
+        "Antivirals",
+        "Fatigue",
+        "Malaise",
+        "Anorexia",
+        "Liver_Big",
+        "Liver_Firm",
+        "Spleen_Palpable",
+        "Spiders",
+        "Ascites",
+        "Varices",
+        "Bilirubin",
+        "Alk_Phosphate",
+        "Sgot",
+        "Albumin",
+        "Protime",
+        "Histology"
+    ]
+}
