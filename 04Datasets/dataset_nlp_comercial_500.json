@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "negocio": "Café Aroma",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-04-24",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 2,
+    "negocio": "PetWorld",
+    "categoria": "Ropa",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-10-29",
+    "canal": "web"
+  },
+  {
+    "id": 3,
+    "negocio": "UrbanWear",
+    "categoria": "Electrónica",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-04-21",
+    "canal": "web"
+  },
+  {
+    "id": 4,
+    "negocio": "FitLife",
+    "categoria": "Hogar",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-10-14",
+    "canal": "web"
+  },
+  {
+    "id": 5,
+    "negocio": "GreenBeauty",
+    "categoria": "Hogar",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-08-17",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 6,
+    "negocio": "OfficePro",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-12-23",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 7,
+    "negocio": "UrbanWear",
+    "categoria": "Librería",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-04-20",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 8,
+    "negocio": "MegaMarket",
+    "categoria": "Ropa",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-02-19",
+    "canal": "instagram"
+  },
+  {
+    "id": 9,
+    "negocio": "ElectroHouse",
+    "categoria": "Librería",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-01-23",
+    "canal": "facebook"
+  },
+  {
+    "id": 10,
+    "negocio": "BioFarm",
+    "categoria": "Hogar",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-02-10",
+    "canal": "instagram"
+  },
+  {
+    "id": 11,
+    "negocio": "KidsWorld",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-10-22",
+    "canal": "facebook"
+  },
+  {
+    "id": 12,
+    "negocio": "GreenBeauty",
+    "categoria": "Ropa",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-04-26",
+    "canal": "call center"
+  },
+  {
+    "id": 13,
+    "negocio": "AutoParts",
+    "categoria": "Ropa",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-07-13",
+    "canal": "web"
+  },
+  {
+    "id": 14,
+    "negocio": "HomeStyle",
+    "categoria": "Deportes",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-07-08",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 15,
+    "negocio": "ElectroHouse",
+    "categoria": "Alimentos",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-12-15",
+    "canal": "call center"
+  },
+  {
+    "id": 16,
+    "negocio": "FreshMarket",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-05-05",
+    "canal": "app móvil"
+  },
+  {
+    "id": 17,
+    "negocio": "BookCity",
+    "categoria": "Deportes",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-11-23",
+    "canal": "facebook"
+  },
+  {
+    "id": 18,
+    "negocio": "KidsWorld",
+    "categoria": "Alimentos",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-04-27",
+    "canal": "web"
+  },
+  {
+    "id": 19,
+    "negocio": "ModaPlus",
+    "categoria": "Librería",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-02-03",
+    "canal": "facebook"
+  },
+  {
+    "id": 20,
+    "negocio": "GreenBeauty",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-12-01",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 21,
+    "negocio": "GourmetBox",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-05-15",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 22,
+    "negocio": "PetWorld",
+    "categoria": "Alimentos",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-05-14",
+    "canal": "app móvil"
+  },
+  {
+    "id": 23,
+    "negocio": "OfficePro",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-07-04",
+    "canal": "instagram"
+  },
+  {
+    "id": 24,
+    "negocio": "FitLife",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-02-16",
+    "canal": "instagram"
+  },
+  {
+    "id": 25,
+    "negocio": "ModaPlus",
+    "categoria": "Ropa",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-03-22",
+    "canal": "call center"
+  },
+  {
+    "id": 26,
+    "negocio": "UrbanWear",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-07-14",
+    "canal": "instagram"
+  },
+  {
+    "id": 27,
+    "negocio": "BikeCity",
+    "categoria": "Deportes",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-10-10",
+    "canal": "facebook"
+  },
+  {
+    "id": 28,
+    "negocio": "TecnoShop",
+    "categoria": "Ropa",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-11-24",
+    "canal": "facebook"
+  },
+  {
+    "id": 29,
+    "negocio": "MegaMarket",
+    "categoria": "Ropa",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-03-21",
+    "canal": "instagram"
+  },
+  {
+    "id": 30,
+    "negocio": "BioFarm",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-04-01",
+    "canal": "app móvil"
+  },
+  {
+    "id": 31,
+    "negocio": "SmartHome",
+    "categoria": "Ropa",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-09-16",
+    "canal": "call center"
+  },
+  {
+    "id": 32,
+    "negocio": "BikeCity",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-03-23",
+    "canal": "facebook"
+  },
+  {
+    "id": 33,
+    "negocio": "KidsWorld",
+    "categoria": "Hogar",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-06-14",
+    "canal": "app móvil"
+  },
+  {
+    "id": 34,
+    "negocio": "GourmetBox",
+    "categoria": "Electrónica",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-06-06",
+    "canal": "facebook"
+  },
+  {
+    "id": 35,
+    "negocio": "FitLife",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-02-10",
+    "canal": "app móvil"
+  },
+  {
+    "id": 36,
+    "negocio": "FreshMarket",
+    "categoria": "Deportes",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-03-05",
+    "canal": "app móvil"
+  },
+  {
+    "id": 37,
+    "negocio": "PetWorld",
+    "categoria": "Deportes",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-05-15",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 38,
+    "negocio": "SmartHome",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-10-03",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 39,
+    "negocio": "GreenBeauty",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-11-28",
+    "canal": "call center"
+  },
+  {
+    "id": 40,
+    "negocio": "ElectroHouse",
+    "categoria": "Deportes",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-03-02",
+    "canal": "instagram"
+  },
+  {
+    "id": 41,
+    "negocio": "FitLife",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-01-11",
+    "canal": "facebook"
+  },
+  {
+    "id": 42,
+    "negocio": "OfficePro",
+    "categoria": "Hogar",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-04-22",
+    "canal": "app móvil"
+  },
+  {
+    "id": 43,
+    "negocio": "TecnoShop",
+    "categoria": "Ropa",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-02-04",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 44,
+    "negocio": "ModaPlus",
+    "categoria": "Librería",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-05-01",
+    "canal": "app móvil"
+  },
+  {
+    "id": 45,
+    "negocio": "HomeStyle",
+    "categoria": "Deportes",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-03-08",
+    "canal": "app móvil"
+  },
+  {
+    "id": 46,
+    "negocio": "OfficePro",
+    "categoria": "Automotriz",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-08-30",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 47,
+    "negocio": "UrbanWear",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-12-03",
+    "canal": "web"
+  },
+  {
+    "id": 48,
+    "negocio": "UrbanWear",
+    "categoria": "Librería",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-08-27",
+    "canal": "instagram"
+  },
+  {
+    "id": 49,
+    "negocio": "ModaPlus",
+    "categoria": "Ropa",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-06-22",
+    "canal": "instagram"
+  },
+  {
+    "id": 50,
+    "negocio": "Café Aroma",
+    "categoria": "Alimentos",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-10-01",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 51,
+    "negocio": "BioFarm",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-05-22",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 52,
+    "negocio": "BioFarm",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-10-08",
+    "canal": "instagram"
+  },
+  {
+    "id": 53,
+    "negocio": "Café Aroma",
+    "categoria": "Electrónica",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-02-17",
+    "canal": "web"
+  },
+  {
+    "id": 54,
+    "negocio": "FitLife",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-09-03",
+    "canal": "instagram"
+  },
+  {
+    "id": 55,
+    "negocio": "GreenBeauty",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-07-13",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 56,
+    "negocio": "TecnoShop",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-05-26",
+    "canal": "instagram"
+  },
+  {
+    "id": 57,
+    "negocio": "UrbanWear",
+    "categoria": "Hogar",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-04-07",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 58,
+    "negocio": "AutoParts",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-10-04",
+    "canal": "app móvil"
+  },
+  {
+    "id": 59,
+    "negocio": "ModaPlus",
+    "categoria": "Librería",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-10-26",
+    "canal": "web"
+  },
+  {
+    "id": 60,
+    "negocio": "GourmetBox",
+    "categoria": "Hogar",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-01-30",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 61,
+    "negocio": "SmartHome",
+    "categoria": "Ropa",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-10-31",
+    "canal": "web"
+  },
+  {
+    "id": 62,
+    "negocio": "FreshMarket",
+    "categoria": "Alimentos",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-10-18",
+    "canal": "web"
+  },
+  {
+    "id": 63,
+    "negocio": "FitLife",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-11-13",
+    "canal": "web"
+  },
+  {
+    "id": 64,
+    "negocio": "FreshMarket",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-09-24",
+    "canal": "app móvil"
+  },
+  {
+    "id": 65,
+    "negocio": "MegaMarket",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-06-09",
+    "canal": "call center"
+  },
+  {
+    "id": 66,
+    "negocio": "FitLife",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-12-09",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 67,
+    "negocio": "AutoParts",
+    "categoria": "Deportes",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-01-05",
+    "canal": "web"
+  },
+  {
+    "id": 68,
+    "negocio": "BioFarm",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-02-07",
+    "canal": "web"
+  },
+  {
+    "id": 69,
+    "negocio": "KidsWorld",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-03-08",
+    "canal": "facebook"
+  },
+  {
+    "id": 70,
+    "negocio": "ElectroHouse",
+    "categoria": "Ropa",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-05-25",
+    "canal": "facebook"
+  },
+  {
+    "id": 71,
+    "negocio": "BookCity",
+    "categoria": "Deportes",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-06-03",
+    "canal": "call center"
+  },
+  {
+    "id": 72,
+    "negocio": "BikeCity",
+    "categoria": "Hogar",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-10-10",
+    "canal": "call center"
+  },
+  {
+    "id": 73,
+    "negocio": "AutoParts",
+    "categoria": "Ropa",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-02-29",
+    "canal": "facebook"
+  },
+  {
+    "id": 74,
+    "negocio": "Café Aroma",
+    "categoria": "Hogar",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-05-24",
+    "canal": "facebook"
+  },
+  {
+    "id": 75,
+    "negocio": "BikeCity",
+    "categoria": "Alimentos",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-12-17",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 76,
+    "negocio": "HomeStyle",
+    "categoria": "Hogar",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-01-27",
+    "canal": "facebook"
+  },
+  {
+    "id": 77,
+    "negocio": "FreshMarket",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-01-02",
+    "canal": "web"
+  },
+  {
+    "id": 78,
+    "negocio": "MegaMarket",
+    "categoria": "Supermercado",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-08-14",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 79,
+    "negocio": "KidsWorld",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-02-27",
+    "canal": "web"
+  },
+  {
+    "id": 80,
+    "negocio": "FreshMarket",
+    "categoria": "Supermercado",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-07-08",
+    "canal": "web"
+  },
+  {
+    "id": 81,
+    "negocio": "OfficePro",
+    "categoria": "Hogar",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-03-06",
+    "canal": "instagram"
+  },
+  {
+    "id": 82,
+    "negocio": "ModaPlus",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-07-02",
+    "canal": "web"
+  },
+  {
+    "id": 83,
+    "negocio": "GreenBeauty",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-10-13",
+    "canal": "facebook"
+  },
+  {
+    "id": 84,
+    "negocio": "UrbanWear",
+    "categoria": "Automotriz",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-03-24",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 85,
+    "negocio": "BookCity",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-06-19",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 86,
+    "negocio": "UrbanWear",
+    "categoria": "Alimentos",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-12-25",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 87,
+    "negocio": "Café Aroma",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-04-23",
+    "canal": "instagram"
+  },
+  {
+    "id": 88,
+    "negocio": "GreenBeauty",
+    "categoria": "Deportes",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-04-26",
+    "canal": "facebook"
+  },
+  {
+    "id": 89,
+    "negocio": "FitLife",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-06-17",
+    "canal": "instagram"
+  },
+  {
+    "id": 90,
+    "negocio": "HomeStyle",
+    "categoria": "Ropa",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-11-24",
+    "canal": "facebook"
+  },
+  {
+    "id": 91,
+    "negocio": "SmartHome",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-01-15",
+    "canal": "facebook"
+  },
+  {
+    "id": 92,
+    "negocio": "Café Aroma",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-05-15",
+    "canal": "app móvil"
+  },
+  {
+    "id": 93,
+    "negocio": "ModaPlus",
+    "categoria": "Ropa",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-06-25",
+    "canal": "instagram"
+  },
+  {
+    "id": 94,
+    "negocio": "MegaMarket",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-02-29",
+    "canal": "app móvil"
+  },
+  {
+    "id": 95,
+    "negocio": "DigitalZone",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-01-23",
+    "canal": "facebook"
+  },
+  {
+    "id": 96,
+    "negocio": "UrbanWear",
+    "categoria": "Electrónica",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-12-17",
+    "canal": "app móvil"
+  },
+  {
+    "id": 97,
+    "negocio": "GreenBeauty",
+    "categoria": "Librería",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-12-06",
+    "canal": "web"
+  },
+  {
+    "id": 98,
+    "negocio": "MegaMarket",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-03-04",
+    "canal": "call center"
+  },
+  {
+    "id": 99,
+    "negocio": "AutoParts",
+    "categoria": "Hogar",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-07-28",
+    "canal": "call center"
+  },
+  {
+    "id": 100,
+    "negocio": "MegaMarket",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-03-06",
+    "canal": "app móvil"
+  },
+  {
+    "id": 101,
+    "negocio": "GreenBeauty",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-03-30",
+    "canal": "call center"
+  },
+  {
+    "id": 102,
+    "negocio": "BikeCity",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-10-07",
+    "canal": "instagram"
+  },
+  {
+    "id": 103,
+    "negocio": "TecnoShop",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-08-08",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 104,
+    "negocio": "OfficePro",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-08-14",
+    "canal": "instagram"
+  },
+  {
+    "id": 105,
+    "negocio": "BioFarm",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-03-27",
+    "canal": "instagram"
+  },
+  {
+    "id": 106,
+    "negocio": "FreshMarket",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-11-20",
+    "canal": "call center"
+  },
+  {
+    "id": 107,
+    "negocio": "BikeCity",
+    "categoria": "Librería",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-12-10",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 108,
+    "negocio": "AutoParts",
+    "categoria": "Alimentos",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-01-13",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 109,
+    "negocio": "ModaPlus",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-02-07",
+    "canal": "app móvil"
+  },
+  {
+    "id": 110,
+    "negocio": "BioFarm",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-12-22",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 111,
+    "negocio": "DigitalZone",
+    "categoria": "Deportes",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-03-16",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 112,
+    "negocio": "TecnoShop",
+    "categoria": "Ropa",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-03-31",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 113,
+    "negocio": "SmartHome",
+    "categoria": "Deportes",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-05-07",
+    "canal": "app móvil"
+  },
+  {
+    "id": 114,
+    "negocio": "Café Aroma",
+    "categoria": "Deportes",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-12-07",
+    "canal": "instagram"
+  },
+  {
+    "id": 115,
+    "negocio": "SmartHome",
+    "categoria": "Hogar",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-08-14",
+    "canal": "facebook"
+  },
+  {
+    "id": 116,
+    "negocio": "BikeCity",
+    "categoria": "Hogar",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-08-16",
+    "canal": "app móvil"
+  },
+  {
+    "id": 117,
+    "negocio": "BookCity",
+    "categoria": "Deportes",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-05-06",
+    "canal": "facebook"
+  },
+  {
+    "id": 118,
+    "negocio": "HomeStyle",
+    "categoria": "Hogar",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-05-02",
+    "canal": "call center"
+  },
+  {
+    "id": 119,
+    "negocio": "HomeStyle",
+    "categoria": "Deportes",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-05-26",
+    "canal": "call center"
+  },
+  {
+    "id": 120,
+    "negocio": "FitLife",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-10-03",
+    "canal": "facebook"
+  },
+  {
+    "id": 121,
+    "negocio": "FreshMarket",
+    "categoria": "Supermercado",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-07-15",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 122,
+    "negocio": "PetWorld",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-07-27",
+    "canal": "instagram"
+  },
+  {
+    "id": 123,
+    "negocio": "MegaMarket",
+    "categoria": "Hogar",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-02-01",
+    "canal": "instagram"
+  },
+  {
+    "id": 124,
+    "negocio": "GreenBeauty",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-12-22",
+    "canal": "app móvil"
+  },
+  {
+    "id": 125,
+    "negocio": "TecnoShop",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-01-04",
+    "canal": "instagram"
+  },
+  {
+    "id": 126,
+    "negocio": "ElectroHouse",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-10-02",
+    "canal": "instagram"
+  },
+  {
+    "id": 127,
+    "negocio": "KidsWorld",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-04-22",
+    "canal": "instagram"
+  },
+  {
+    "id": 128,
+    "negocio": "HomeStyle",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-07-18",
+    "canal": "web"
+  },
+  {
+    "id": 129,
+    "negocio": "MegaMarket",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-03-06",
+    "canal": "instagram"
+  },
+  {
+    "id": 130,
+    "negocio": "BikeCity",
+    "categoria": "Hogar",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-10-30",
+    "canal": "instagram"
+  },
+  {
+    "id": 131,
+    "negocio": "OfficePro",
+    "categoria": "Electrónica",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-08-07",
+    "canal": "call center"
+  },
+  {
+    "id": 132,
+    "negocio": "PetWorld",
+    "categoria": "Deportes",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-05-13",
+    "canal": "web"
+  },
+  {
+    "id": 133,
+    "negocio": "DigitalZone",
+    "categoria": "Librería",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-06-16",
+    "canal": "instagram"
+  },
+  {
+    "id": 134,
+    "negocio": "MegaMarket",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-05-09",
+    "canal": "instagram"
+  },
+  {
+    "id": 135,
+    "negocio": "FreshMarket",
+    "categoria": "Deportes",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-10-03",
+    "canal": "call center"
+  },
+  {
+    "id": 136,
+    "negocio": "ModaPlus",
+    "categoria": "Librería",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-02-05",
+    "canal": "call center"
+  },
+  {
+    "id": 137,
+    "negocio": "ModaPlus",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-01-11",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 138,
+    "negocio": "BikeCity",
+    "categoria": "Supermercado",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-08-30",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 139,
+    "negocio": "Café Aroma",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-12-24",
+    "canal": "instagram"
+  },
+  {
+    "id": 140,
+    "negocio": "HomeStyle",
+    "categoria": "Librería",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-11-06",
+    "canal": "app móvil"
+  },
+  {
+    "id": 141,
+    "negocio": "Café Aroma",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-10-23",
+    "canal": "web"
+  },
+  {
+    "id": 142,
+    "negocio": "TecnoShop",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-07-11",
+    "canal": "call center"
+  },
+  {
+    "id": 143,
+    "negocio": "DigitalZone",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-12-19",
+    "canal": "app móvil"
+  },
+  {
+    "id": 144,
+    "negocio": "FitLife",
+    "categoria": "Ropa",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-11-03",
+    "canal": "call center"
+  },
+  {
+    "id": 145,
+    "negocio": "Café Aroma",
+    "categoria": "Automotriz",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-09-29",
+    "canal": "facebook"
+  },
+  {
+    "id": 146,
+    "negocio": "UrbanWear",
+    "categoria": "Librería",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-11-27",
+    "canal": "app móvil"
+  },
+  {
+    "id": 147,
+    "negocio": "MegaMarket",
+    "categoria": "Electrónica",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-02-24",
+    "canal": "instagram"
+  },
+  {
+    "id": 148,
+    "negocio": "UrbanWear",
+    "categoria": "Librería",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-03-19",
+    "canal": "call center"
+  },
+  {
+    "id": 149,
+    "negocio": "UrbanWear",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-05-18",
+    "canal": "call center"
+  },
+  {
+    "id": 150,
+    "negocio": "BikeCity",
+    "categoria": "Hogar",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-08-11",
+    "canal": "instagram"
+  },
+  {
+    "id": 151,
+    "negocio": "OfficePro",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-02-14",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 152,
+    "negocio": "HomeStyle",
+    "categoria": "Deportes",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-10-18",
+    "canal": "instagram"
+  },
+  {
+    "id": 153,
+    "negocio": "BikeCity",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-09-10",
+    "canal": "web"
+  },
+  {
+    "id": 154,
+    "negocio": "MegaMarket",
+    "categoria": "Supermercado",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-06-30",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 155,
+    "negocio": "HomeStyle",
+    "categoria": "Librería",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-12-25",
+    "canal": "app móvil"
+  },
+  {
+    "id": 156,
+    "negocio": "HomeStyle",
+    "categoria": "Hogar",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-04-07",
+    "canal": "app móvil"
+  },
+  {
+    "id": 157,
+    "negocio": "FreshMarket",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-10-11",
+    "canal": "instagram"
+  },
+  {
+    "id": 158,
+    "negocio": "FitLife",
+    "categoria": "Deportes",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-01-09",
+    "canal": "instagram"
+  },
+  {
+    "id": 159,
+    "negocio": "FreshMarket",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-12-20",
+    "canal": "instagram"
+  },
+  {
+    "id": 160,
+    "negocio": "FitLife",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-08-30",
+    "canal": "facebook"
+  },
+  {
+    "id": 161,
+    "negocio": "KidsWorld",
+    "categoria": "Hogar",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-10-08",
+    "canal": "instagram"
+  },
+  {
+    "id": 162,
+    "negocio": "MegaMarket",
+    "categoria": "Librería",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-06-05",
+    "canal": "facebook"
+  },
+  {
+    "id": 163,
+    "negocio": "HomeStyle",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-04-08",
+    "canal": "call center"
+  },
+  {
+    "id": 164,
+    "negocio": "MegaMarket",
+    "categoria": "Ropa",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-04-04",
+    "canal": "call center"
+  },
+  {
+    "id": 165,
+    "negocio": "GreenBeauty",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-10-28",
+    "canal": "facebook"
+  },
+  {
+    "id": 166,
+    "negocio": "SmartHome",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-04-09",
+    "canal": "web"
+  },
+  {
+    "id": 167,
+    "negocio": "AutoParts",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-06-03",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 168,
+    "negocio": "TecnoShop",
+    "categoria": "Hogar",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-01-24",
+    "canal": "facebook"
+  },
+  {
+    "id": 169,
+    "negocio": "ModaPlus",
+    "categoria": "Hogar",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-03-05",
+    "canal": "call center"
+  },
+  {
+    "id": 170,
+    "negocio": "GourmetBox",
+    "categoria": "Ropa",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-05-25",
+    "canal": "app móvil"
+  },
+  {
+    "id": 171,
+    "negocio": "GourmetBox",
+    "categoria": "Deportes",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-04-04",
+    "canal": "facebook"
+  },
+  {
+    "id": 172,
+    "negocio": "ModaPlus",
+    "categoria": "Mascotas",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-02-03",
+    "canal": "web"
+  },
+  {
+    "id": 173,
+    "negocio": "DigitalZone",
+    "categoria": "Deportes",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-11-18",
+    "canal": "app móvil"
+  },
+  {
+    "id": 174,
+    "negocio": "ModaPlus",
+    "categoria": "Supermercado",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-06-04",
+    "canal": "app móvil"
+  },
+  {
+    "id": 175,
+    "negocio": "FreshMarket",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-08-01",
+    "canal": "app móvil"
+  },
+  {
+    "id": 176,
+    "negocio": "BikeCity",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-09-24",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 177,
+    "negocio": "DigitalZone",
+    "categoria": "Deportes",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-10-28",
+    "canal": "facebook"
+  },
+  {
+    "id": 178,
+    "negocio": "UrbanWear",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-01-31",
+    "canal": "app móvil"
+  },
+  {
+    "id": 179,
+    "negocio": "BikeCity",
+    "categoria": "Ropa",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-04-18",
+    "canal": "call center"
+  },
+  {
+    "id": 180,
+    "negocio": "HomeStyle",
+    "categoria": "Ropa",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-03-29",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 181,
+    "negocio": "KidsWorld",
+    "categoria": "Ropa",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-07-28",
+    "canal": "web"
+  },
+  {
+    "id": 182,
+    "negocio": "BioFarm",
+    "categoria": "Automotriz",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-01-17",
+    "canal": "facebook"
+  },
+  {
+    "id": 183,
+    "negocio": "FitLife",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-08-20",
+    "canal": "call center"
+  },
+  {
+    "id": 184,
+    "negocio": "FreshMarket",
+    "categoria": "Alimentos",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-10-28",
+    "canal": "call center"
+  },
+  {
+    "id": 185,
+    "negocio": "GreenBeauty",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-04-25",
+    "canal": "app móvil"
+  },
+  {
+    "id": 186,
+    "negocio": "PetWorld",
+    "categoria": "Mascotas",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-01-31",
+    "canal": "web"
+  },
+  {
+    "id": 187,
+    "negocio": "BookCity",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-10-18",
+    "canal": "call center"
+  },
+  {
+    "id": 188,
+    "negocio": "AutoParts",
+    "categoria": "Deportes",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-12-18",
+    "canal": "instagram"
+  },
+  {
+    "id": 189,
+    "negocio": "AutoParts",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-10-03",
+    "canal": "app móvil"
+  },
+  {
+    "id": 190,
+    "negocio": "GourmetBox",
+    "categoria": "Deportes",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-01-21",
+    "canal": "app móvil"
+  },
+  {
+    "id": 191,
+    "negocio": "UrbanWear",
+    "categoria": "Librería",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-01-14",
+    "canal": "facebook"
+  },
+  {
+    "id": 192,
+    "negocio": "FreshMarket",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-01-11",
+    "canal": "app móvil"
+  },
+  {
+    "id": 193,
+    "negocio": "HomeStyle",
+    "categoria": "Automotriz",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-08-28",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 194,
+    "negocio": "SmartHome",
+    "categoria": "Deportes",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-10-26",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 195,
+    "negocio": "UrbanWear",
+    "categoria": "Deportes",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-06-27",
+    "canal": "instagram"
+  },
+  {
+    "id": 196,
+    "negocio": "UrbanWear",
+    "categoria": "Librería",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-02-23",
+    "canal": "call center"
+  },
+  {
+    "id": 197,
+    "negocio": "BookCity",
+    "categoria": "Librería",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-09-10",
+    "canal": "call center"
+  },
+  {
+    "id": 198,
+    "negocio": "AutoParts",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-08-20",
+    "canal": "web"
+  },
+  {
+    "id": 199,
+    "negocio": "FreshMarket",
+    "categoria": "Librería",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-02-29",
+    "canal": "facebook"
+  },
+  {
+    "id": 200,
+    "negocio": "DigitalZone",
+    "categoria": "Hogar",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-10-04",
+    "canal": "call center"
+  },
+  {
+    "id": 201,
+    "negocio": "BioFarm",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-09-22",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 202,
+    "negocio": "ElectroHouse",
+    "categoria": "Automotriz",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-08-14",
+    "canal": "call center"
+  },
+  {
+    "id": 203,
+    "negocio": "ModaPlus",
+    "categoria": "Alimentos",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-03-08",
+    "canal": "app móvil"
+  },
+  {
+    "id": 204,
+    "negocio": "AutoParts",
+    "categoria": "Deportes",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-01-15",
+    "canal": "web"
+  },
+  {
+    "id": 205,
+    "negocio": "BikeCity",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-10-09",
+    "canal": "facebook"
+  },
+  {
+    "id": 206,
+    "negocio": "TecnoShop",
+    "categoria": "Hogar",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-04-25",
+    "canal": "web"
+  },
+  {
+    "id": 207,
+    "negocio": "Café Aroma",
+    "categoria": "Deportes",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-03-19",
+    "canal": "call center"
+  },
+  {
+    "id": 208,
+    "negocio": "GourmetBox",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-05-19",
+    "canal": "call center"
+  },
+  {
+    "id": 209,
+    "negocio": "UrbanWear",
+    "categoria": "Deportes",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-08-21",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 210,
+    "negocio": "KidsWorld",
+    "categoria": "Supermercado",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-11-02",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 211,
+    "negocio": "SmartHome",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-07-31",
+    "canal": "facebook"
+  },
+  {
+    "id": 212,
+    "negocio": "MegaMarket",
+    "categoria": "Hogar",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-05-24",
+    "canal": "web"
+  },
+  {
+    "id": 213,
+    "negocio": "AutoParts",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-09-07",
+    "canal": "call center"
+  },
+  {
+    "id": 214,
+    "negocio": "PetWorld",
+    "categoria": "Deportes",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-06-25",
+    "canal": "instagram"
+  },
+  {
+    "id": 215,
+    "negocio": "MegaMarket",
+    "categoria": "Hogar",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-08-21",
+    "canal": "instagram"
+  },
+  {
+    "id": 216,
+    "negocio": "MegaMarket",
+    "categoria": "Alimentos",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-07-15",
+    "canal": "app móvil"
+  },
+  {
+    "id": 217,
+    "negocio": "FitLife",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-08-30",
+    "canal": "facebook"
+  },
+  {
+    "id": 218,
+    "negocio": "DigitalZone",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-01-19",
+    "canal": "instagram"
+  },
+  {
+    "id": 219,
+    "negocio": "PetWorld",
+    "categoria": "Hogar",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-02-21",
+    "canal": "facebook"
+  },
+  {
+    "id": 220,
+    "negocio": "BioFarm",
+    "categoria": "Ropa",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-01-08",
+    "canal": "instagram"
+  },
+  {
+    "id": 221,
+    "negocio": "PetWorld",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-08-28",
+    "canal": "web"
+  },
+  {
+    "id": 222,
+    "negocio": "HomeStyle",
+    "categoria": "Librería",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-07-22",
+    "canal": "call center"
+  },
+  {
+    "id": 223,
+    "negocio": "FreshMarket",
+    "categoria": "Librería",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-06-11",
+    "canal": "instagram"
+  },
+  {
+    "id": 224,
+    "negocio": "GourmetBox",
+    "categoria": "Hogar",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-02-05",
+    "canal": "app móvil"
+  },
+  {
+    "id": 225,
+    "negocio": "FitLife",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-02-16",
+    "canal": "call center"
+  },
+  {
+    "id": 226,
+    "negocio": "UrbanWear",
+    "categoria": "Ropa",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-03-26",
+    "canal": "instagram"
+  },
+  {
+    "id": 227,
+    "negocio": "AutoParts",
+    "categoria": "Electrónica",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-01-29",
+    "canal": "facebook"
+  },
+  {
+    "id": 228,
+    "negocio": "AutoParts",
+    "categoria": "Librería",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-03-15",
+    "canal": "instagram"
+  },
+  {
+    "id": 229,
+    "negocio": "FitLife",
+    "categoria": "Hogar",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-12-15",
+    "canal": "app móvil"
+  },
+  {
+    "id": 230,
+    "negocio": "BookCity",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-11-08",
+    "canal": "web"
+  },
+  {
+    "id": 231,
+    "negocio": "DigitalZone",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-10-25",
+    "canal": "instagram"
+  },
+  {
+    "id": 232,
+    "negocio": "PetWorld",
+    "categoria": "Alimentos",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-05-10",
+    "canal": "call center"
+  },
+  {
+    "id": 233,
+    "negocio": "BioFarm",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-05-27",
+    "canal": "instagram"
+  },
+  {
+    "id": 234,
+    "negocio": "KidsWorld",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-06-25",
+    "canal": "instagram"
+  },
+  {
+    "id": 235,
+    "negocio": "OfficePro",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-05-08",
+    "canal": "call center"
+  },
+  {
+    "id": 236,
+    "negocio": "BioFarm",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-09-04",
+    "canal": "instagram"
+  },
+  {
+    "id": 237,
+    "negocio": "Café Aroma",
+    "categoria": "Alimentos",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-07-02",
+    "canal": "app móvil"
+  },
+  {
+    "id": 238,
+    "negocio": "OfficePro",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-12-03",
+    "canal": "web"
+  },
+  {
+    "id": 239,
+    "negocio": "DigitalZone",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-12-17",
+    "canal": "app móvil"
+  },
+  {
+    "id": 240,
+    "negocio": "ModaPlus",
+    "categoria": "Automotriz",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-04-27",
+    "canal": "facebook"
+  },
+  {
+    "id": 241,
+    "negocio": "BikeCity",
+    "categoria": "Librería",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-04-07",
+    "canal": "call center"
+  },
+  {
+    "id": 242,
+    "negocio": "BikeCity",
+    "categoria": "Mascotas",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-02-19",
+    "canal": "call center"
+  },
+  {
+    "id": 243,
+    "negocio": "ModaPlus",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-10-23",
+    "canal": "web"
+  },
+  {
+    "id": 244,
+    "negocio": "ElectroHouse",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-06-16",
+    "canal": "facebook"
+  },
+  {
+    "id": 245,
+    "negocio": "UrbanWear",
+    "categoria": "Supermercado",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-10-03",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 246,
+    "negocio": "ElectroHouse",
+    "categoria": "Hogar",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-03-25",
+    "canal": "facebook"
+  },
+  {
+    "id": 247,
+    "negocio": "HomeStyle",
+    "categoria": "Deportes",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-06-22",
+    "canal": "call center"
+  },
+  {
+    "id": 248,
+    "negocio": "Café Aroma",
+    "categoria": "Deportes",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-04-25",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 249,
+    "negocio": "DigitalZone",
+    "categoria": "Hogar",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-07-21",
+    "canal": "web"
+  },
+  {
+    "id": 250,
+    "negocio": "TecnoShop",
+    "categoria": "Mascotas",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-08-20",
+    "canal": "web"
+  },
+  {
+    "id": 251,
+    "negocio": "ElectroHouse",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-11-22",
+    "canal": "instagram"
+  },
+  {
+    "id": 252,
+    "negocio": "ElectroHouse",
+    "categoria": "Ropa",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-01-13",
+    "canal": "instagram"
+  },
+  {
+    "id": 253,
+    "negocio": "BikeCity",
+    "categoria": "Hogar",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-04-23",
+    "canal": "app móvil"
+  },
+  {
+    "id": 254,
+    "negocio": "FreshMarket",
+    "categoria": "Deportes",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-07-28",
+    "canal": "call center"
+  },
+  {
+    "id": 255,
+    "negocio": "Café Aroma",
+    "categoria": "Supermercado",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-06-04",
+    "canal": "web"
+  },
+  {
+    "id": 256,
+    "negocio": "GourmetBox",
+    "categoria": "Ropa",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-10-02",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 257,
+    "negocio": "PetWorld",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-12-09",
+    "canal": "facebook"
+  },
+  {
+    "id": 258,
+    "negocio": "KidsWorld",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-03-20",
+    "canal": "call center"
+  },
+  {
+    "id": 259,
+    "negocio": "UrbanWear",
+    "categoria": "Ropa",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-07-27",
+    "canal": "app móvil"
+  },
+  {
+    "id": 260,
+    "negocio": "HomeStyle",
+    "categoria": "Electrónica",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-08-15",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 261,
+    "negocio": "BioFarm",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-12-17",
+    "canal": "web"
+  },
+  {
+    "id": 262,
+    "negocio": "ElectroHouse",
+    "categoria": "Hogar",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-07-22",
+    "canal": "web"
+  },
+  {
+    "id": 263,
+    "negocio": "HomeStyle",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-02-16",
+    "canal": "instagram"
+  },
+  {
+    "id": 264,
+    "negocio": "GreenBeauty",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-06-19",
+    "canal": "web"
+  },
+  {
+    "id": 265,
+    "negocio": "FitLife",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-02-05",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 266,
+    "negocio": "KidsWorld",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-04-29",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 267,
+    "negocio": "MegaMarket",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-05-21",
+    "canal": "web"
+  },
+  {
+    "id": 268,
+    "negocio": "PetWorld",
+    "categoria": "Supermercado",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-03-30",
+    "canal": "facebook"
+  },
+  {
+    "id": 269,
+    "negocio": "Café Aroma",
+    "categoria": "Electrónica",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-07-02",
+    "canal": "web"
+  },
+  {
+    "id": 270,
+    "negocio": "FitLife",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-03-30",
+    "canal": "web"
+  },
+  {
+    "id": 271,
+    "negocio": "HomeStyle",
+    "categoria": "Electrónica",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-08-03",
+    "canal": "call center"
+  },
+  {
+    "id": 272,
+    "negocio": "SmartHome",
+    "categoria": "Ropa",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-08-17",
+    "canal": "instagram"
+  },
+  {
+    "id": 273,
+    "negocio": "ElectroHouse",
+    "categoria": "Hogar",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-08-19",
+    "canal": "web"
+  },
+  {
+    "id": 274,
+    "negocio": "SmartHome",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-12-03",
+    "canal": "web"
+  },
+  {
+    "id": 275,
+    "negocio": "SmartHome",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-01-16",
+    "canal": "call center"
+  },
+  {
+    "id": 276,
+    "negocio": "ModaPlus",
+    "categoria": "Deportes",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-12-17",
+    "canal": "instagram"
+  },
+  {
+    "id": 277,
+    "negocio": "Café Aroma",
+    "categoria": "Deportes",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-02-11",
+    "canal": "web"
+  },
+  {
+    "id": 278,
+    "negocio": "MegaMarket",
+    "categoria": "Automotriz",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-03-05",
+    "canal": "web"
+  },
+  {
+    "id": 279,
+    "negocio": "HomeStyle",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-12-30",
+    "canal": "app móvil"
+  },
+  {
+    "id": 280,
+    "negocio": "MegaMarket",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-05-30",
+    "canal": "app móvil"
+  },
+  {
+    "id": 281,
+    "negocio": "BioFarm",
+    "categoria": "Hogar",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-02-20",
+    "canal": "instagram"
+  },
+  {
+    "id": 282,
+    "negocio": "Café Aroma",
+    "categoria": "Hogar",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-08-19",
+    "canal": "instagram"
+  },
+  {
+    "id": 283,
+    "negocio": "FitLife",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-07-23",
+    "canal": "instagram"
+  },
+  {
+    "id": 284,
+    "negocio": "UrbanWear",
+    "categoria": "Ropa",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-06-09",
+    "canal": "instagram"
+  },
+  {
+    "id": 285,
+    "negocio": "HomeStyle",
+    "categoria": "Librería",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-08-30",
+    "canal": "call center"
+  },
+  {
+    "id": 286,
+    "negocio": "FreshMarket",
+    "categoria": "Ropa",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-08-09",
+    "canal": "web"
+  },
+  {
+    "id": 287,
+    "negocio": "Café Aroma",
+    "categoria": "Librería",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-01-31",
+    "canal": "app móvil"
+  },
+  {
+    "id": 288,
+    "negocio": "OfficePro",
+    "categoria": "Hogar",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-12-09",
+    "canal": "facebook"
+  },
+  {
+    "id": 289,
+    "negocio": "Café Aroma",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-08-04",
+    "canal": "call center"
+  },
+  {
+    "id": 290,
+    "negocio": "ModaPlus",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-06-29",
+    "canal": "facebook"
+  },
+  {
+    "id": 291,
+    "negocio": "Café Aroma",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-03-20",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 292,
+    "negocio": "GourmetBox",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-10-11",
+    "canal": "facebook"
+  },
+  {
+    "id": 293,
+    "negocio": "ElectroHouse",
+    "categoria": "Ropa",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-04-25",
+    "canal": "app móvil"
+  },
+  {
+    "id": 294,
+    "negocio": "UrbanWear",
+    "categoria": "Hogar",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-12-11",
+    "canal": "app móvil"
+  },
+  {
+    "id": 295,
+    "negocio": "KidsWorld",
+    "categoria": "Electrónica",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-12-21",
+    "canal": "call center"
+  },
+  {
+    "id": 296,
+    "negocio": "HomeStyle",
+    "categoria": "Electrónica",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-12-25",
+    "canal": "facebook"
+  },
+  {
+    "id": 297,
+    "negocio": "AutoParts",
+    "categoria": "Librería",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-04-02",
+    "canal": "web"
+  },
+  {
+    "id": 298,
+    "negocio": "PetWorld",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-03-13",
+    "canal": "web"
+  },
+  {
+    "id": 299,
+    "negocio": "TecnoShop",
+    "categoria": "Ropa",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-07-11",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 300,
+    "negocio": "UrbanWear",
+    "categoria": "Deportes",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-07-08",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 301,
+    "negocio": "AutoParts",
+    "categoria": "Librería",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-02-13",
+    "canal": "app móvil"
+  },
+  {
+    "id": 302,
+    "negocio": "ModaPlus",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-01-26",
+    "canal": "app móvil"
+  },
+  {
+    "id": 303,
+    "negocio": "FreshMarket",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-08-05",
+    "canal": "call center"
+  },
+  {
+    "id": 304,
+    "negocio": "GourmetBox",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-05-19",
+    "canal": "instagram"
+  },
+  {
+    "id": 305,
+    "negocio": "GreenBeauty",
+    "categoria": "Hogar",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-08-08",
+    "canal": "facebook"
+  },
+  {
+    "id": 306,
+    "negocio": "Café Aroma",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-09-26",
+    "canal": "instagram"
+  },
+  {
+    "id": 307,
+    "negocio": "AutoParts",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-11-02",
+    "canal": "instagram"
+  },
+  {
+    "id": 308,
+    "negocio": "ModaPlus",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-04-18",
+    "canal": "facebook"
+  },
+  {
+    "id": 309,
+    "negocio": "PetWorld",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-03-02",
+    "canal": "facebook"
+  },
+  {
+    "id": 310,
+    "negocio": "TecnoShop",
+    "categoria": "Deportes",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-03-07",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 311,
+    "negocio": "DigitalZone",
+    "categoria": "Hogar",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-10-13",
+    "canal": "app móvil"
+  },
+  {
+    "id": 312,
+    "negocio": "ElectroHouse",
+    "categoria": "Ropa",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-01-22",
+    "canal": "call center"
+  },
+  {
+    "id": 313,
+    "negocio": "UrbanWear",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-06-09",
+    "canal": "web"
+  },
+  {
+    "id": 314,
+    "negocio": "OfficePro",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-12-29",
+    "canal": "instagram"
+  },
+  {
+    "id": 315,
+    "negocio": "UrbanWear",
+    "categoria": "Mascotas",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-01-11",
+    "canal": "instagram"
+  },
+  {
+    "id": 316,
+    "negocio": "MegaMarket",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-12-19",
+    "canal": "instagram"
+  },
+  {
+    "id": 317,
+    "negocio": "ElectroHouse",
+    "categoria": "Ropa",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-05-04",
+    "canal": "web"
+  },
+  {
+    "id": 318,
+    "negocio": "UrbanWear",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-02-10",
+    "canal": "app móvil"
+  },
+  {
+    "id": 319,
+    "negocio": "DigitalZone",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-06-19",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 320,
+    "negocio": "BookCity",
+    "categoria": "Ropa",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-02-28",
+    "canal": "call center"
+  },
+  {
+    "id": 321,
+    "negocio": "SmartHome",
+    "categoria": "Hogar",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-06-28",
+    "canal": "facebook"
+  },
+  {
+    "id": 322,
+    "negocio": "PetWorld",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-05-11",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 323,
+    "negocio": "GreenBeauty",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-12-01",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 324,
+    "negocio": "FreshMarket",
+    "categoria": "Supermercado",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-10-15",
+    "canal": "instagram"
+  },
+  {
+    "id": 325,
+    "negocio": "OfficePro",
+    "categoria": "Deportes",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-11-21",
+    "canal": "call center"
+  },
+  {
+    "id": 326,
+    "negocio": "BikeCity",
+    "categoria": "Librería",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-08-13",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 327,
+    "negocio": "FreshMarket",
+    "categoria": "Deportes",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-06-04",
+    "canal": "call center"
+  },
+  {
+    "id": 328,
+    "negocio": "HomeStyle",
+    "categoria": "Automotriz",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-09-16",
+    "canal": "facebook"
+  },
+  {
+    "id": 329,
+    "negocio": "FreshMarket",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-01-20",
+    "canal": "instagram"
+  },
+  {
+    "id": 330,
+    "negocio": "ModaPlus",
+    "categoria": "Librería",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-11-26",
+    "canal": "web"
+  },
+  {
+    "id": 331,
+    "negocio": "FreshMarket",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-07-15",
+    "canal": "app móvil"
+  },
+  {
+    "id": 332,
+    "negocio": "BioFarm",
+    "categoria": "Automotriz",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-01-22",
+    "canal": "call center"
+  },
+  {
+    "id": 333,
+    "negocio": "BioFarm",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-11-05",
+    "canal": "facebook"
+  },
+  {
+    "id": 334,
+    "negocio": "GourmetBox",
+    "categoria": "Hogar",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-08-18",
+    "canal": "web"
+  },
+  {
+    "id": 335,
+    "negocio": "Café Aroma",
+    "categoria": "Librería",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-11-26",
+    "canal": "app móvil"
+  },
+  {
+    "id": 336,
+    "negocio": "BookCity",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-08-12",
+    "canal": "call center"
+  },
+  {
+    "id": 337,
+    "negocio": "BioFarm",
+    "categoria": "Hogar",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-03-22",
+    "canal": "app móvil"
+  },
+  {
+    "id": 338,
+    "negocio": "ElectroHouse",
+    "categoria": "Librería",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-07-28",
+    "canal": "instagram"
+  },
+  {
+    "id": 339,
+    "negocio": "MegaMarket",
+    "categoria": "Automotriz",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-11-27",
+    "canal": "call center"
+  },
+  {
+    "id": 340,
+    "negocio": "MegaMarket",
+    "categoria": "Ropa",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-10-12",
+    "canal": "web"
+  },
+  {
+    "id": 341,
+    "negocio": "DigitalZone",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-12-02",
+    "canal": "call center"
+  },
+  {
+    "id": 342,
+    "negocio": "BikeCity",
+    "categoria": "Supermercado",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-10-25",
+    "canal": "web"
+  },
+  {
+    "id": 343,
+    "negocio": "PetWorld",
+    "categoria": "Librería",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-12-23",
+    "canal": "call center"
+  },
+  {
+    "id": 344,
+    "negocio": "DigitalZone",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-02-13",
+    "canal": "call center"
+  },
+  {
+    "id": 345,
+    "negocio": "AutoParts",
+    "categoria": "Hogar",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-06-17",
+    "canal": "call center"
+  },
+  {
+    "id": 346,
+    "negocio": "PetWorld",
+    "categoria": "Hogar",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-12-09",
+    "canal": "call center"
+  },
+  {
+    "id": 347,
+    "negocio": "UrbanWear",
+    "categoria": "Hogar",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-07-04",
+    "canal": "web"
+  },
+  {
+    "id": 348,
+    "negocio": "AutoParts",
+    "categoria": "Supermercado",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-09-05",
+    "canal": "facebook"
+  },
+  {
+    "id": 349,
+    "negocio": "GreenBeauty",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-02-09",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 350,
+    "negocio": "AutoParts",
+    "categoria": "Ropa",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-09-26",
+    "canal": "app móvil"
+  },
+  {
+    "id": 351,
+    "negocio": "ModaPlus",
+    "categoria": "Librería",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-11-01",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 352,
+    "negocio": "DigitalZone",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-12-20",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 353,
+    "negocio": "BikeCity",
+    "categoria": "Supermercado",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-07-29",
+    "canal": "web"
+  },
+  {
+    "id": 354,
+    "negocio": "ElectroHouse",
+    "categoria": "Alimentos",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-05-25",
+    "canal": "app móvil"
+  },
+  {
+    "id": 355,
+    "negocio": "BioFarm",
+    "categoria": "Alimentos",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-06-07",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 356,
+    "negocio": "GourmetBox",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-10-19",
+    "canal": "call center"
+  },
+  {
+    "id": 357,
+    "negocio": "BioFarm",
+    "categoria": "Deportes",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-09-14",
+    "canal": "instagram"
+  },
+  {
+    "id": 358,
+    "negocio": "SmartHome",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-11-05",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 359,
+    "negocio": "PetWorld",
+    "categoria": "Mascotas",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-09-03",
+    "canal": "call center"
+  },
+  {
+    "id": 360,
+    "negocio": "ElectroHouse",
+    "categoria": "Hogar",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-09-21",
+    "canal": "call center"
+  },
+  {
+    "id": 361,
+    "negocio": "Café Aroma",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-05-19",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 362,
+    "negocio": "BioFarm",
+    "categoria": "Hogar",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-02-16",
+    "canal": "instagram"
+  },
+  {
+    "id": 363,
+    "negocio": "FitLife",
+    "categoria": "Deportes",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-07-31",
+    "canal": "web"
+  },
+  {
+    "id": 364,
+    "negocio": "ModaPlus",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-04-30",
+    "canal": "facebook"
+  },
+  {
+    "id": 365,
+    "negocio": "DigitalZone",
+    "categoria": "Ropa",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-01-15",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 366,
+    "negocio": "MegaMarket",
+    "categoria": "Ropa",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-03-11",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 367,
+    "negocio": "ModaPlus",
+    "categoria": "Mascotas",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-03-12",
+    "canal": "call center"
+  },
+  {
+    "id": 368,
+    "negocio": "GourmetBox",
+    "categoria": "Deportes",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-02-10",
+    "canal": "web"
+  },
+  {
+    "id": 369,
+    "negocio": "TecnoShop",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-10-07",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 370,
+    "negocio": "BikeCity",
+    "categoria": "Hogar",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-05-27",
+    "canal": "web"
+  },
+  {
+    "id": 371,
+    "negocio": "FitLife",
+    "categoria": "Mascotas",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-05-02",
+    "canal": "web"
+  },
+  {
+    "id": 372,
+    "negocio": "UrbanWear",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-02-26",
+    "canal": "web"
+  },
+  {
+    "id": 373,
+    "negocio": "GourmetBox",
+    "categoria": "Automotriz",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-11-19",
+    "canal": "web"
+  },
+  {
+    "id": 374,
+    "negocio": "SmartHome",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-03-14",
+    "canal": "call center"
+  },
+  {
+    "id": 375,
+    "negocio": "AutoParts",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-06-29",
+    "canal": "app móvil"
+  },
+  {
+    "id": 376,
+    "negocio": "FitLife",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-12-06",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 377,
+    "negocio": "FreshMarket",
+    "categoria": "Hogar",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-09-26",
+    "canal": "web"
+  },
+  {
+    "id": 378,
+    "negocio": "KidsWorld",
+    "categoria": "Hogar",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-01-11",
+    "canal": "app móvil"
+  },
+  {
+    "id": 379,
+    "negocio": "DigitalZone",
+    "categoria": "Deportes",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-07-17",
+    "canal": "call center"
+  },
+  {
+    "id": 380,
+    "negocio": "ElectroHouse",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-02-04",
+    "canal": "facebook"
+  },
+  {
+    "id": 381,
+    "negocio": "ElectroHouse",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-06-19",
+    "canal": "app móvil"
+  },
+  {
+    "id": 382,
+    "negocio": "PetWorld",
+    "categoria": "Electrónica",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-06-22",
+    "canal": "app móvil"
+  },
+  {
+    "id": 383,
+    "negocio": "BookCity",
+    "categoria": "Deportes",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-04-03",
+    "canal": "call center"
+  },
+  {
+    "id": 384,
+    "negocio": "PetWorld",
+    "categoria": "Ropa",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-05-30",
+    "canal": "web"
+  },
+  {
+    "id": 385,
+    "negocio": "GreenBeauty",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-06-10",
+    "canal": "web"
+  },
+  {
+    "id": 386,
+    "negocio": "AutoParts",
+    "categoria": "Hogar",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-08-30",
+    "canal": "app móvil"
+  },
+  {
+    "id": 387,
+    "negocio": "HomeStyle",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-07-01",
+    "canal": "facebook"
+  },
+  {
+    "id": 388,
+    "negocio": "ModaPlus",
+    "categoria": "Librería",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-07-07",
+    "canal": "web"
+  },
+  {
+    "id": 389,
+    "negocio": "UrbanWear",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-06-22",
+    "canal": "instagram"
+  },
+  {
+    "id": 390,
+    "negocio": "BookCity",
+    "categoria": "Deportes",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-09-22",
+    "canal": "facebook"
+  },
+  {
+    "id": 391,
+    "negocio": "HomeStyle",
+    "categoria": "Ropa",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-08-08",
+    "canal": "web"
+  },
+  {
+    "id": 392,
+    "negocio": "BikeCity",
+    "categoria": "Supermercado",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-06-13",
+    "canal": "facebook"
+  },
+  {
+    "id": 393,
+    "negocio": "Café Aroma",
+    "categoria": "Ropa",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-05-31",
+    "canal": "call center"
+  },
+  {
+    "id": 394,
+    "negocio": "AutoParts",
+    "categoria": "Deportes",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-08-06",
+    "canal": "call center"
+  },
+  {
+    "id": 395,
+    "negocio": "BookCity",
+    "categoria": "Deportes",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-01-22",
+    "canal": "instagram"
+  },
+  {
+    "id": 396,
+    "negocio": "ElectroHouse",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-11-23",
+    "canal": "facebook"
+  },
+  {
+    "id": 397,
+    "negocio": "ModaPlus",
+    "categoria": "Ropa",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-09-19",
+    "canal": "facebook"
+  },
+  {
+    "id": 398,
+    "negocio": "BookCity",
+    "categoria": "Electrónica",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-12-13",
+    "canal": "app móvil"
+  },
+  {
+    "id": 399,
+    "negocio": "BioFarm",
+    "categoria": "Electrónica",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-04-30",
+    "canal": "web"
+  },
+  {
+    "id": 400,
+    "negocio": "ElectroHouse",
+    "categoria": "Librería",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-01-17",
+    "canal": "app móvil"
+  },
+  {
+    "id": 401,
+    "negocio": "BikeCity",
+    "categoria": "Supermercado",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-07-09",
+    "canal": "facebook"
+  },
+  {
+    "id": 402,
+    "negocio": "BioFarm",
+    "categoria": "Ropa",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-09-28",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 403,
+    "negocio": "ElectroHouse",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-05-22",
+    "canal": "call center"
+  },
+  {
+    "id": 404,
+    "negocio": "FitLife",
+    "categoria": "Ropa",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-04-05",
+    "canal": "call center"
+  },
+  {
+    "id": 405,
+    "negocio": "GourmetBox",
+    "categoria": "Hogar",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-03-01",
+    "canal": "app móvil"
+  },
+  {
+    "id": 406,
+    "negocio": "HomeStyle",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-11-09",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 407,
+    "negocio": "AutoParts",
+    "categoria": "Deportes",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-03-10",
+    "canal": "web"
+  },
+  {
+    "id": 408,
+    "negocio": "FreshMarket",
+    "categoria": "Deportes",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-08-15",
+    "canal": "call center"
+  },
+  {
+    "id": 409,
+    "negocio": "FreshMarket",
+    "categoria": "Librería",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-02-03",
+    "canal": "call center"
+  },
+  {
+    "id": 410,
+    "negocio": "KidsWorld",
+    "categoria": "Hogar",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-03-21",
+    "canal": "facebook"
+  },
+  {
+    "id": 411,
+    "negocio": "BookCity",
+    "categoria": "Librería",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-03-03",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 412,
+    "negocio": "GreenBeauty",
+    "categoria": "Supermercado",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-01-14",
+    "canal": "instagram"
+  },
+  {
+    "id": 413,
+    "negocio": "ElectroHouse",
+    "categoria": "Hogar",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-08-27",
+    "canal": "facebook"
+  },
+  {
+    "id": 414,
+    "negocio": "KidsWorld",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-02-03",
+    "canal": "web"
+  },
+  {
+    "id": 415,
+    "negocio": "AutoParts",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-07-29",
+    "canal": "app móvil"
+  },
+  {
+    "id": 416,
+    "negocio": "UrbanWear",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-06-11",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 417,
+    "negocio": "FreshMarket",
+    "categoria": "Deportes",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-09-21",
+    "canal": "call center"
+  },
+  {
+    "id": 418,
+    "negocio": "ElectroHouse",
+    "categoria": "Supermercado",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-10-27",
+    "canal": "call center"
+  },
+  {
+    "id": 419,
+    "negocio": "BookCity",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-01-29",
+    "canal": "app móvil"
+  },
+  {
+    "id": 420,
+    "negocio": "Café Aroma",
+    "categoria": "Hogar",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-03-25",
+    "canal": "facebook"
+  },
+  {
+    "id": 421,
+    "negocio": "BookCity",
+    "categoria": "Librería",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-09-22",
+    "canal": "facebook"
+  },
+  {
+    "id": 422,
+    "negocio": "AutoParts",
+    "categoria": "Ropa",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-11-21",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 423,
+    "negocio": "KidsWorld",
+    "categoria": "Mascotas",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-06-04",
+    "canal": "call center"
+  },
+  {
+    "id": 424,
+    "negocio": "BikeCity",
+    "categoria": "Hogar",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-11-24",
+    "canal": "app móvil"
+  },
+  {
+    "id": 425,
+    "negocio": "BookCity",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-03-28",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 426,
+    "negocio": "BikeCity",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-01-22",
+    "canal": "app móvil"
+  },
+  {
+    "id": 427,
+    "negocio": "TecnoShop",
+    "categoria": "Ropa",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-10-22",
+    "canal": "call center"
+  },
+  {
+    "id": 428,
+    "negocio": "HomeStyle",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-11-12",
+    "canal": "instagram"
+  },
+  {
+    "id": 429,
+    "negocio": "TecnoShop",
+    "categoria": "Deportes",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-11-24",
+    "canal": "facebook"
+  },
+  {
+    "id": 430,
+    "negocio": "AutoParts",
+    "categoria": "Deportes",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-07-26",
+    "canal": "call center"
+  },
+  {
+    "id": 431,
+    "negocio": "AutoParts",
+    "categoria": "Deportes",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-01-31",
+    "canal": "call center"
+  },
+  {
+    "id": 432,
+    "negocio": "BookCity",
+    "categoria": "Deportes",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-08-25",
+    "canal": "instagram"
+  },
+  {
+    "id": 433,
+    "negocio": "GreenBeauty",
+    "categoria": "Librería",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-06-09",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 434,
+    "negocio": "MegaMarket",
+    "categoria": "Librería",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-07-08",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 435,
+    "negocio": "SmartHome",
+    "categoria": "Hogar",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-05-03",
+    "canal": "facebook"
+  },
+  {
+    "id": 436,
+    "negocio": "BioFarm",
+    "categoria": "Ropa",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-05-06",
+    "canal": "instagram"
+  },
+  {
+    "id": 437,
+    "negocio": "PetWorld",
+    "categoria": "Ropa",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-07-15",
+    "canal": "facebook"
+  },
+  {
+    "id": 438,
+    "negocio": "BikeCity",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-06-16",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 439,
+    "negocio": "OfficePro",
+    "categoria": "Librería",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-09-12",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 440,
+    "negocio": "SmartHome",
+    "categoria": "Deportes",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-09-11",
+    "canal": "facebook"
+  },
+  {
+    "id": 441,
+    "negocio": "TecnoShop",
+    "categoria": "Ropa",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-08-22",
+    "canal": "app móvil"
+  },
+  {
+    "id": 442,
+    "negocio": "FitLife",
+    "categoria": "Alimentos",
+    "comentario_cliente": "El local físico ofrece mejor atención que la tienda en línea.",
+    "fecha": "2024-01-25",
+    "canal": "facebook"
+  },
+  {
+    "id": 443,
+    "negocio": "ModaPlus",
+    "categoria": "Mascotas",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-11-30",
+    "canal": "app móvil"
+  },
+  {
+    "id": 444,
+    "negocio": "GourmetBox",
+    "categoria": "Mascotas",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-02-25",
+    "canal": "web"
+  },
+  {
+    "id": 445,
+    "negocio": "UrbanWear",
+    "categoria": "Supermercado",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-07-06",
+    "canal": "call center"
+  },
+  {
+    "id": 446,
+    "negocio": "DigitalZone",
+    "categoria": "Librería",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-01-27",
+    "canal": "instagram"
+  },
+  {
+    "id": 447,
+    "negocio": "OfficePro",
+    "categoria": "Hogar",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-10-10",
+    "canal": "facebook"
+  },
+  {
+    "id": 448,
+    "negocio": "AutoParts",
+    "categoria": "Ropa",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-08-18",
+    "canal": "app móvil"
+  },
+  {
+    "id": 449,
+    "negocio": "KidsWorld",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-11-08",
+    "canal": "call center"
+  },
+  {
+    "id": 450,
+    "negocio": "Café Aroma",
+    "categoria": "Supermercado",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-07-10",
+    "canal": "instagram"
+  },
+  {
+    "id": 451,
+    "negocio": "MegaMarket",
+    "categoria": "Hogar",
+    "comentario_cliente": "El sistema de seguimiento del pedido no actualiza la información a tiempo.",
+    "fecha": "2024-04-11",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 452,
+    "negocio": "BikeCity",
+    "categoria": "Hogar",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-01-21",
+    "canal": "app móvil"
+  },
+  {
+    "id": 453,
+    "negocio": "ModaPlus",
+    "categoria": "Electrónica",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-06-19",
+    "canal": "call center"
+  },
+  {
+    "id": 454,
+    "negocio": "GourmetBox",
+    "categoria": "Hogar",
+    "comentario_cliente": "Ofrecen buenas promociones, pero se agotan muy rápido los productos.",
+    "fecha": "2024-11-06",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 455,
+    "negocio": "SmartHome",
+    "categoria": "Supermercado",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-06-12",
+    "canal": "app móvil"
+  },
+  {
+    "id": 456,
+    "negocio": "BookCity",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-06-02",
+    "canal": "call center"
+  },
+  {
+    "id": 457,
+    "negocio": "OfficePro",
+    "categoria": "Librería",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-09-29",
+    "canal": "app móvil"
+  },
+  {
+    "id": 458,
+    "negocio": "GourmetBox",
+    "categoria": "Automotriz",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-01-09",
+    "canal": "instagram"
+  },
+  {
+    "id": 459,
+    "negocio": "ElectroHouse",
+    "categoria": "Librería",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-10-25",
+    "canal": "instagram"
+  },
+  {
+    "id": 460,
+    "negocio": "AutoParts",
+    "categoria": "Electrónica",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-05-15",
+    "canal": "instagram"
+  },
+  {
+    "id": 461,
+    "negocio": "OfficePro",
+    "categoria": "Automotriz",
+    "comentario_cliente": "Muy mala experiencia, el producto llegó dañado y no dieron solución.",
+    "fecha": "2024-01-27",
+    "canal": "call center"
+  },
+  {
+    "id": 462,
+    "negocio": "OfficePro",
+    "categoria": "Deportes",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-11-18",
+    "canal": "app móvil"
+  },
+  {
+    "id": 463,
+    "negocio": "BikeCity",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-05-04",
+    "canal": "call center"
+  },
+  {
+    "id": 464,
+    "negocio": "ModaPlus",
+    "categoria": "Automotriz",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-01-10",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 465,
+    "negocio": "BioFarm",
+    "categoria": "Librería",
+    "comentario_cliente": "El chat en línea nunca está disponible cuando lo necesito.",
+    "fecha": "2024-07-30",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 466,
+    "negocio": "GreenBeauty",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-08-29",
+    "canal": "app móvil"
+  },
+  {
+    "id": 467,
+    "negocio": "ModaPlus",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-10-14",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 468,
+    "negocio": "MegaMarket",
+    "categoria": "Deportes",
+    "comentario_cliente": "El soporte por WhatsApp fue muy útil y amable.",
+    "fecha": "2024-06-09",
+    "canal": "instagram"
+  },
+  {
+    "id": 469,
+    "negocio": "BookCity",
+    "categoria": "Deportes",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-10-06",
+    "canal": "facebook"
+  },
+  {
+    "id": 470,
+    "negocio": "ElectroHouse",
+    "categoria": "Mascotas",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-04-08",
+    "canal": "instagram"
+  },
+  {
+    "id": 471,
+    "negocio": "FitLife",
+    "categoria": "Mascotas",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-04-25",
+    "canal": "facebook"
+  },
+  {
+    "id": 472,
+    "negocio": "AutoParts",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-12-26",
+    "canal": "call center"
+  },
+  {
+    "id": 473,
+    "negocio": "GourmetBox",
+    "categoria": "Librería",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-10-13",
+    "canal": "facebook"
+  },
+  {
+    "id": 474,
+    "negocio": "HomeStyle",
+    "categoria": "Mascotas",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-12-12",
+    "canal": "app móvil"
+  },
+  {
+    "id": 475,
+    "negocio": "KidsWorld",
+    "categoria": "Cosméticos",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-03-15",
+    "canal": "facebook"
+  },
+  {
+    "id": 476,
+    "negocio": "AutoParts",
+    "categoria": "Electrónica",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-02-10",
+    "canal": "call center"
+  },
+  {
+    "id": 477,
+    "negocio": "ElectroHouse",
+    "categoria": "Deportes",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-09-02",
+    "canal": "call center"
+  },
+  {
+    "id": 478,
+    "negocio": "GreenBeauty",
+    "categoria": "Alimentos",
+    "comentario_cliente": "No quedé satisfecho con la calidad, esperaba algo mejor por el precio.",
+    "fecha": "2024-10-14",
+    "canal": "facebook"
+  },
+  {
+    "id": 479,
+    "negocio": "HomeStyle",
+    "categoria": "Supermercado",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-10-27",
+    "canal": "app móvil"
+  },
+  {
+    "id": 480,
+    "negocio": "FitLife",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-09-28",
+    "canal": "call center"
+  },
+  {
+    "id": 481,
+    "negocio": "FitLife",
+    "categoria": "Alimentos",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-07-30",
+    "canal": "web"
+  },
+  {
+    "id": 482,
+    "negocio": "MegaMarket",
+    "categoria": "Deportes",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-03-11",
+    "canal": "call center"
+  },
+  {
+    "id": 483,
+    "negocio": "TecnoShop",
+    "categoria": "Hogar",
+    "comentario_cliente": "El envío fue puntual pero el mensajero no llamó antes de llegar.",
+    "fecha": "2024-11-30",
+    "canal": "instagram"
+  },
+  {
+    "id": 484,
+    "negocio": "GourmetBox",
+    "categoria": "Deportes",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-06-13",
+    "canal": "facebook"
+  },
+  {
+    "id": 485,
+    "negocio": "AutoParts",
+    "categoria": "Electrónica",
+    "comentario_cliente": "El pedido tardó más de lo esperado y nadie respondió a mis mensajes.",
+    "fecha": "2024-10-20",
+    "canal": "call center"
+  },
+  {
+    "id": 486,
+    "negocio": "FitLife",
+    "categoria": "Hogar",
+    "comentario_cliente": "La atención al cliente fue excelente, resolvieron mi duda en pocos minutos.",
+    "fecha": "2024-08-01",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 487,
+    "negocio": "BookCity",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Recibí exactamente lo que pedí, sin sorpresas, todo muy claro.",
+    "fecha": "2024-04-05",
+    "canal": "instagram"
+  },
+  {
+    "id": 488,
+    "negocio": "AutoParts",
+    "categoria": "Electrónica",
+    "comentario_cliente": "El producto llegó rápido y en buen estado, aunque el empaque podría mejorar.",
+    "fecha": "2024-10-17",
+    "canal": "facebook"
+  },
+  {
+    "id": 489,
+    "negocio": "BikeCity",
+    "categoria": "Ropa",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-08-20",
+    "canal": "facebook"
+  },
+  {
+    "id": 490,
+    "negocio": "KidsWorld",
+    "categoria": "Hogar",
+    "comentario_cliente": "La aplicación móvil es intuitiva, pero a veces se queda congelada.",
+    "fecha": "2024-09-15",
+    "canal": "whatsapp"
+  },
+  {
+    "id": 491,
+    "negocio": "BioFarm",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Los precios son buenos, pero la página se cae constantemente al pagar.",
+    "fecha": "2024-06-18",
+    "canal": "web"
+  },
+  {
+    "id": 492,
+    "negocio": "BookCity",
+    "categoria": "Deportes",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-04-05",
+    "canal": "call center"
+  },
+  {
+    "id": 493,
+    "negocio": "TecnoShop",
+    "categoria": "Librería",
+    "comentario_cliente": "El sabor del producto es excelente, pero la presentación no es la mejor.",
+    "fecha": "2024-12-11",
+    "canal": "app móvil"
+  },
+  {
+    "id": 494,
+    "negocio": "GreenBeauty",
+    "categoria": "Supermercado",
+    "comentario_cliente": "El proceso de devolución fue sencillo y rápido.",
+    "fecha": "2024-07-26",
+    "canal": "call center"
+  },
+  {
+    "id": 495,
+    "negocio": "UrbanWear",
+    "categoria": "Hogar",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-07-24",
+    "canal": "web"
+  },
+  {
+    "id": 496,
+    "negocio": "Café Aroma",
+    "categoria": "Supermercado",
+    "comentario_cliente": "La talla no corresponde a la guía de medidas publicada en la página.",
+    "fecha": "2024-06-14",
+    "canal": "instagram"
+  },
+  {
+    "id": 497,
+    "negocio": "FitLife",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-04-30",
+    "canal": "instagram"
+  },
+  {
+    "id": 498,
+    "negocio": "BioFarm",
+    "categoria": "Mascotas",
+    "comentario_cliente": "Me encantó la experiencia de compra, el proceso fue muy fácil desde el celular.",
+    "fecha": "2024-10-25",
+    "canal": "facebook"
+  },
+  {
+    "id": 499,
+    "negocio": "OfficePro",
+    "categoria": "Electrónica",
+    "comentario_cliente": "Buena experiencia en general, pero pueden mejorar los tiempos de respuesta.",
+    "fecha": "2024-07-03",
+    "canal": "call center"
+  },
+  {
+    "id": 500,
+    "negocio": "FitLife",
+    "categoria": "Electrónica",
+    "comentario_cliente": "La calidad es mejor de lo que pensaba, definitivamente volvería a comprar.",
+    "fecha": "2024-06-06",
+    "canal": "instagram"
+  }
+]
