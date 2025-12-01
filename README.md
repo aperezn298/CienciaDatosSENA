@@ -44,9 +44,9 @@ Contenido de la Competencia de Ciencia de Datos (BigData - Machine Learning) - S
         - [Ejemplo MVC](https://github.com/aperezn298/trianguloMVC)
         - [Ejemplo Rest](https://github.com/aperezn298/trianguloRest)
         - [Modelo IA Hepatitis](https://github.com/aperezn298/CienciaDatosSENA/blob/main/07ModeloIAHepatitis)
+    6. [Analisis de Sentimientos](https://github.com/aperezn298/CienciaDatosSENA/blob/main/08_Analisis_Sentimientos/08Ejemplo_AnalisisSentimientos.ipynb)
 
-
-    6. [Datasets](https://github.com/aperezn298/CienciaDatosSENA/blob/main/04Datasets)
+    7. [Datasets](https://github.com/aperezn298/CienciaDatosSENA/blob/main/04Datasets)
 <!-- 5. Proyecto Clase
     - [Usuarios](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04_hepatitis_dataset_users.xlsx)
     - [Sintomas](https://github.com/aperezn298/CienciaDatosSENA/blob/main/03AnalisisDatos/04EntendimientoDatos/04_hepatitis_dataset_sintomas.xlsx) -->
